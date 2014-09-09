@@ -1,0 +1,15 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:asset,manufacture_date:"
+msgid "Manufacture Date"
+msgstr "Data fabricació"
+
+msgctxt "field:asset,manufacturer:"
+msgid "Manufacturer"
+msgstr "Fabricant"
+
+msgctxt "field:asset,serial_number:"
+msgid "Serial Number"
+msgstr "Número de sèrie"
